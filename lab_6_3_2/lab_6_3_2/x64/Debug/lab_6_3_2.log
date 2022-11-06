@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Student\ri\matskula\lab6\lab_6_3_2\lab_6_3_2\Source.cpp(33): warning C4715: 'mas': not all control paths return a value
+C:\Student\ri\matskula\lab6\lab_6_3_2\lab_6_3_2\Source.cpp(18): warning C4715: 'tmas<int>': not all control paths return a value
+  lab_6_3_2.vcxproj -> C:\Student\ri\matskula\lab6\lab_6_3_2\x64\Debug\lab_6_3_2.exe
